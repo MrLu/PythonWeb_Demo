@@ -17,4 +17,3 @@ def register():
 @auths_bp.route('logout', methods=['POST'])
 def logout():
     return 'logout'
-
