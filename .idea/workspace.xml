@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a07a111e-f6bd-4431-ac5c-84c5ca89ab8d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonWeb_Demo.conf" beforeDir="false" afterPath="$PROJECT_DIR$/PythonWeb_Demo.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/uwsgi.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a07a111e-f6bd-4431-ac5c-84c5ca89ab8d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -305,8 +300,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32948717" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32948717" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934036" weight="0.25209206" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49868074" visible="true" weight="0.33054394" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17546174" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49868074" visible="true" weight="0.33054394" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17546174" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="5" weight="0.32964602" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32964602" />
