@@ -8,13 +8,15 @@ class Config(object):
     DB_DB = 'flask-pyjwt-auth'  # type: str
     DEBUG = True  # type: bool
     PORT = 5002  # type: int
-    HOST = "172.0.0.1"  # type: str
+    HOST = "127.0.0.1"  # type: str
     SECRET_KEY = "my blog"  # type: str
     SQLALCHEMY_TRACK_MODIFICATIONS = False  # type: # bool
     SQLALCHEMY_DATABASE_URI = 'mysql://' + DB_USER + ':' + DB_PASSWORD + '@' + DB_HOST + '/' + DB_DB
 
 
 class ProductionConfig(Config):
+    PORT = 8080  # type: int
+    HOST = "0.0.0.0"  # type: str
     DATABASE_URI = 'mysql://user@localhost/foo'
 
 
